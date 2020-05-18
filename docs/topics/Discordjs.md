@@ -1,2 +1,2 @@
 # Discord.js Bot Development
-Her is some text about front end.
+Here is some text about front end.
